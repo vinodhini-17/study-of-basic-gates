@@ -86,11 +86,12 @@ Date:15/04/25
 ![{7B7744B8-BE5E-490F-A2AA-E2588D920748}](https://github.com/user-attachments/assets/7036e097-1057-430e-82ef-b874ee9f725f)
 
 **RTL realization Output:** 
-![Uploading {6BB7AD10-5840-491F-805A-88A4AC254678}.png…]()
+![{6BB7AD10-5840-491F-805A-88A4AC254678}](https://github.com/user-attachments/assets/1ec1cf37-ed3a-4a89-9582-5ddbe146ff60)
+
 
 
 **RTL**
-![Uploading {B81375E2-5161-4CB5-96CD-22CFB38FFBF5}.png…]()
+![Screenshot 2025-04-22 101427](https://github.com/user-attachments/assets/5d513e4a-0e59-4036-a97f-602d8db8b75c)
 
 **Result:**
 
